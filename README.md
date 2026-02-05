@@ -13,7 +13,7 @@ The dashboard transforms raw survey data into meaningful, data-driven insights t
   - Microsoft Excel – Data preprocessing and cleaning
   - DAX (Data Analysis Expressions) – Calculated measures and metrics
 - Dataset Information
-  - The dataset consists of survey responses from data professionals worldwide. It includes information such as:
+  The dataset consists of survey responses from data professionals worldwide. It includes information such as:
   - Job Role
   - Salary Range
   - Programming Language Preference
